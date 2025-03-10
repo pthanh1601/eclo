@@ -84,16 +84,16 @@
         },
         {
             "name": "eclo/app",
-            "version": "v1.0.9",
+            "version": "v1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Jatbi/eclo.git",
-                "reference": "8d2caf1629f6c6302d0bb0202c13cad9ec3ed5e5"
+                "reference": "a574af1f8d7dffaa80e4ba8a5c47c164a9f2c29e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Jatbi/eclo/zipball/8d2caf1629f6c6302d0bb0202c13cad9ec3ed5e5",
-                "reference": "8d2caf1629f6c6302d0bb0202c13cad9ec3ed5e5",
+                "url": "https://api.github.com/repos/Jatbi/eclo/zipball/a574af1f8d7dffaa80e4ba8a5c47c164a9f2c29e",
+                "reference": "a574af1f8d7dffaa80e4ba8a5c47c164a9f2c29e",
                 "shasum": ""
             },
             "require": {
@@ -130,9 +130,9 @@
             "support": {
                 "email": "info@eclo.vn",
                 "issues": "https://github.com/Jatbi/eclo/issues",
-                "source": "https://github.com/Jatbi/eclo/tree/v1.0.9"
+                "source": "https://github.com/Jatbi/eclo/tree/v1.1.0"
             },
-            "time": "2025-01-24T10:51:41+00:00"
+            "time": "2025-02-28T07:43:26+00:00"
         },
         {
             "name": "firebase/php-jwt",

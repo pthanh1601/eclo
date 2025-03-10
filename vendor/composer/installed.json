@@ -32,7 +32,7 @@
             },
             "time": "2024-02-03T11:28:59+00:00",
             "type": "framework",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Medoo\\": "src/"
@@ -81,17 +81,17 @@
         },
         {
             "name": "eclo/app",
-            "version": "v1.0.9",
-            "version_normalized": "1.0.9.0",
+            "version": "v1.1.0",
+            "version_normalized": "1.1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Jatbi/eclo.git",
-                "reference": "8d2caf1629f6c6302d0bb0202c13cad9ec3ed5e5"
+                "reference": "a574af1f8d7dffaa80e4ba8a5c47c164a9f2c29e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Jatbi/eclo/zipball/8d2caf1629f6c6302d0bb0202c13cad9ec3ed5e5",
-                "reference": "8d2caf1629f6c6302d0bb0202c13cad9ec3ed5e5",
+                "url": "https://api.github.com/repos/Jatbi/eclo/zipball/a574af1f8d7dffaa80e4ba8a5c47c164a9f2c29e",
+                "reference": "a574af1f8d7dffaa80e4ba8a5c47c164a9f2c29e",
                 "shasum": ""
             },
             "require": {
@@ -102,9 +102,9 @@
                 "phpmailer/phpmailer": "^6.9",
                 "verot/class.upload.php": "^2.1"
             },
-            "time": "2025-01-24T10:51:41+00:00",
+            "time": "2025-02-28T07:43:26+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "ECLO\\": "src/"
@@ -130,7 +130,7 @@
             "support": {
                 "email": "info@eclo.vn",
                 "issues": "https://github.com/Jatbi/eclo/issues",
-                "source": "https://github.com/Jatbi/eclo/tree/v1.0.9"
+                "source": "https://github.com/Jatbi/eclo/tree/v1.1.0"
             },
             "install-path": "../eclo/app"
         },
@@ -166,7 +166,7 @@
             },
             "time": "2025-01-23T05:11:06+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Firebase\\JWT\\": "src"
@@ -235,7 +235,7 @@
                 "bin/minifyjs"
             ],
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "MatthiasMullie\\Minify\\": "src/"
@@ -298,7 +298,7 @@
             },
             "time": "2019-02-05T23:41:09+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "MatthiasMullie\\PathConverter\\": "src/"
@@ -374,7 +374,7 @@
             },
             "time": "2024-11-24T18:04:13+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "PHPMailer\\PHPMailer\\": "src/"
@@ -434,7 +434,7 @@
             },
             "time": "2023-12-06T23:03:55+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/class.upload.php"

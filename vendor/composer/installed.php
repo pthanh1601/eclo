@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => '__root__',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '4eb020aa5db8dbb8a8619613179cb1e3a10545a1',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '4eb020aa5db8dbb8a8619613179cb1e3a10545a1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'eclo/app' => array(
-            'pretty_version' => 'v1.0.9',
-            'version' => '1.0.9.0',
-            'reference' => '8d2caf1629f6c6302d0bb0202c13cad9ec3ed5e5',
+            'pretty_version' => 'v1.1.0',
+            'version' => '1.1.0.0',
+            'reference' => 'a574af1f8d7dffaa80e4ba8a5c47c164a9f2c29e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../eclo/app',
             'aliases' => array(),
